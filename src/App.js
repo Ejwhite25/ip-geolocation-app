@@ -3,7 +3,7 @@ import axios from 'axios';
 import { GoogleMap, Marker, Polyline, useJsApiLoader } from '@react-google-maps/api';
 
 // Google Maps API Key
-const GOOGLE_MAPS_API_KEY = 'AIzaSyBGwriOW66NZg0QlMfLIEY8GAs9mb-p1RU'; // Replace with real key
+const GOOGLE_MAPS_API_KEY = 'Insert Javascripts maps API key here'; // Replace with real key
 
 // UI Styles
 const cardStyle = {
