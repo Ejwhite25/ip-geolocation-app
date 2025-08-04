@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Get google maps API
+Get javascript MAPS API key from [here](https://developers.google.com/maps/documentation/javascript/overview)
+
 ## Available Scripts
 
 In the project directory, you can run:
